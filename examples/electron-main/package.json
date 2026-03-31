@@ -1,7 +1,7 @@
 {
   "name": "iohook-electron-example",
   "version": "1.0.0",
-  "description": "Show how to use this module with electron",
+  "description": "Show how to use this module with electron with test app",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
